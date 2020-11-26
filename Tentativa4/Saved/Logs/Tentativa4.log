@@ -1,0 +1,1471 @@
+﻿Log file open, 11/26/20 15:13:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Tentativa4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.183247
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.11.26-18.13.13:737][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.26-18.13.13:737][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.26-18.13.13:738][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.11.26-18.13.13:738][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.26-18.13.13:738][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.26-18.13.13:738][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.26-18.13.13:738][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.26-18.13.13:738][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.26-18.13.13:738][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.26-18.13.13:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.11.26-18.13.13:738][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.11.26-18.13.13:740][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.26-18.13.13:740][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.26-18.13.13:741][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.26-18.13.13:741][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.26-18.13.13:741][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.26-18.13.13:749][  0]LogHAL: Display: Platform has ~ 12 GB [12751085568 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.26-18.13.13:750][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.26-18.13.13:750][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.11.26-18.13.13:750][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.26-18.13.13:751][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.11.26-18.13.13:751][  0]LogInit: Computer: DESKTOP-AM7GMFQ
+[2020.11.26-18.13.13:751][  0]LogInit: User: salles
+[2020.11.26-18.13.13:751][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.11.26-18.13.13:751][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.26-18.13.13:752][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2020.11.26-18.13.13:752][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.26-18.13.13:752][  0]LogMemory: Process Physical Memory: 101.41 MB used, 101.42 MB peak
+[2020.11.26-18.13.13:752][  0]LogMemory: Process Virtual Memory: 88.45 MB used, 88.45 MB peak
+[2020.11.26-18.13.13:752][  0]LogMemory: Physical Memory: 5994.73 MB used,  6165.65 MB free, 12160.38 MB total
+[2020.11.26-18.13.13:752][  0]LogMemory: Virtual Memory: 4658.27 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.11.26-18.13.13:767][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.26-18.13.14:177][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.11.26-18.13.14:177][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.11.26-18.13.14:412][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.26-18.13.14:532][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.26-18.13.14:532][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.26-18.13.17:157][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.26-18.13.17:157][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.26-18.13.17:218][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.11.26-18.13.17:218][  0]LogD3D11RHI:       128/0/6080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.11.26-18.13.17:220][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.26-18.13.17:220][  0]LogD3D11RHI:       0/0/6080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.26-18.13.17:220][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.26-18.13.17:227][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.26-18.13.17:227][  0]LogD3D11RHI:     GPU DeviceId: 0x1912 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.26-18.13.17:227][  0]LogWindows: EnumDisplayDevices:
+[2020.11.26-18.13.17:227][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.11.26-18.13.17:227][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.11.26-18.13.17:227][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.11.26-18.13.17:228][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.11.26-18.13.17:228][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 530
+[2020.11.26-18.13.17:228][  0]LogD3D11RHI:   Driver Version: 26.20.100.7528 (internal:26.20.100.7528, unified:26.20.100.7528)
+[2020.11.26-18.13.17:228][  0]LogD3D11RHI:      Driver Date: 11-13-2019
+[2020.11.26-18.13.17:228][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2020.11.26-18.13.17:337][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2020.11.26-18.13.17:337][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.26-18.13.17:343][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.11.26-18.13.17:930][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.11.26-18.13.17:964][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.11.26-18.13.17:996][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.11.26-18.13.18:020][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.11.26-18.13.18:060][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.11.26-18.13.18:089][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.11.26-18.13.18:112][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.26-18.13.18:134][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.11.26-18.13.18:153][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.11.26-18.13.18:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.11.26-18.13.18:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.11.26-18.13.18:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.11.26-18.13.18:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.11.26-18.13.18:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.11.26-18.13.18:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.11.26-18.13.18:225][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.11.26-18.13.18:225][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.11.26-18.13.18:225][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.11.26-18.13.18:225][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.26-18.13.18:225][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.11.26-18.13.18:225][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.11.26-18.13.18:225][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.11.26-18.13.18:225][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.11.26-18.13.18:225][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.26-18.13.18:225][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.11.26-18.13.18:225][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.11.26-18.13.18:225][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.11.26-18.13.18:251][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.11.26-18.13.18:344][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.11.26-18.13.18:344][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.11.26-18.13.18:384][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.11.26-18.13.18:384][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.11.26-18.13.18:411][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.11.26-18.13.18:443][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.26-18.13.18:474][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.11.26-18.13.18:511][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.11.26-18.13.18:552][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.11.26-18.13.18:552][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.11.26-18.13.18:552][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.26-18.13.18:662][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.26-18.13.19:260][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Intermediate/Shaders/WorkingDirectory/7032/).
+[2020.11.26-18.13.19:260][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/salles/AppData/Local/Temp/UnrealShaderWorkingDir/45B497F046EACDE4F227DA82557452C4/'.
+[2020.11.26-18.13.19:261][  0]LogXGEController: Cleaning working directory: C:/Users/salles/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.26-18.13.19:261][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.26-18.13.19:261][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.26-18.13.19:262][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.26-18.13.21:528][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.26-18.13.21:594][  0]LogDerivedDataCache: Loaded boot cache 0.07s 73MB C:/Users/salles/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.11.26-18.13.21:594][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/salles/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.11.26-18.13.21:594][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.26-18.13.21:594][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.26-18.13.21:594][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.26-18.13.21:594][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.26-18.13.21:627][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.26-18.13.21:627][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.26-18.13.21:627][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.26-18.13.21:628][  0]LogDerivedDataCache: Using Local data cache path C:/Users/salles/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.26-18.13.21:628][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.26-18.13.21:628][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.26-18.13.21:649][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.11.26-18.13.21:651][  0]LogSlate: Using FreeType 2.6.0
+[2020.11.26-18.13.21:664][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.26-18.13.22:622][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.11.26-18.13.22:888][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.26-18.13.23:436][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.26-18.13.23:436][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.26-18.13.23:436][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.26-18.13.23:436][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.26-18.13.23:436][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.26-18.13.23:469][  0]LogNetVersion: Tentativa4 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 811232057)
+[2020.11.26-18.13.24:490][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.053312 seconds
+[2020.11.26-18.13.24:496][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.11.26-18.13.24:496][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.11.26-18.13.24:496][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.26-18.13.36:872][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.26-18.13.36:908][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.26-18.13.37:451][  0]SourceControl: Source control is disabled
+[2020.11.26-18.13.37:451][  0]SourceControl: Source control is disabled
+[2020.11.26-18.13.37:504][  0]SourceControl: Source control is disabled
+[2020.11.26-18.13.37:531][  0]SourceControl: Source control is disabled
+[2020.11.26-18.13.38:725][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.26-18.13.39:345][  0]LogOcInput: OculusInput pre-init called
+[2020.11.26-18.13.39:415][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.26-18.13.39:415][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.26-18.13.39:766][  0]LogEngine: Initializing Engine...
+[2020.11.26-18.13.39:767][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.26-18.13.39:768][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.26-18.13.40:187][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.26-18.13.40:233][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.26-18.13.40:241][  0]LogInit: XAudio2 using 'Alto-falantes (3- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.11.26-18.13.40:258][  0]LogInit: FAudioDevice initialized.
+[2020.11.26-18.13.40:258][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.26-18.13.40:340][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/salles/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.11.26-18.13.40:347][  0]LogInit: Texture streaming: Enabled
+[2020.11.26-18.13.40:445][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.26-18.13.40:445][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.26-18.13.40:446][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.26-18.13.40:562][  0]LogInit: Transaction tracking system initialized
+[2020.11.26-18.13.40:765][  0]BlueprintLog: New page: Editor Load
+[2020.11.26-18.13.41:378][  0]LocalizationService: Localization service is disabled
+[2020.11.26-18.13.42:445][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.26-18.13.42:445][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.26-18.13.42:860][  0]LogFileCache: Scanning file cache for directory 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/' took 0.02s
+[2020.11.26-18.13.44:013][  0]SourceControl: Source control is disabled
+[2020.11.26-18.13.44:013][  0]Cmd: MAP LOAD FILE="C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Maps/Station.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.26-18.13.44:013][  0]LogEditorServer: Warning: Can't find file 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Maps/Station.umap'
+[2020.11.26-18.13.44:013][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.26-18.13.44:013][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2020.11.26-18.13.44:013][  0]LogFileHelpers: Loading map 'Station' took 0.000
+[2020.11.26-18.13.44:154][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.26-18.13.44:159][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.26-18.13.44:166][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.26-18.13.44:173][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.26-18.13.44:197][  0]LogCollectionManager: Loaded 0 collections in 0.000985 seconds
+[2020.11.26-18.13.44:203][  0]LogFileCache: Scanning file cache for directory 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Collections/' took 0.00s
+[2020.11.26-18.13.44:203][  0]LogFileCache: Scanning file cache for directory 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/Developers/salles/Collections/' took 0.00s
+[2020.11.26-18.13.44:203][  0]LogFileCache: Scanning file cache for directory 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/Collections/' took 0.00s
+[2020.11.26-18.13.44:203][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.11.26-18.13.44:211][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2863 classes and 680 folders.
+[2020.11.26-18.13.44:216][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.26-18.13.44:688][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.26-18.13.44:853][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.11.26-18.13.44:875][  0]LogSlate: Took 0.010278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.26-18.13.44:883][  0]LogSlate: Took 0.006285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.26-18.13.44:892][  0]LogSlate: Took 0.004937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.26-18.13.45:035][  0]LogRenderer: Reallocating scene render targets to support 1260x572 Format 9 NumSamples 1 (Frame:1).
+[2020.11.26-18.13.45:232][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.26-18.13.45:232][  0]LogLoad: (Engine Initialization) Total time: 36.49 seconds
+[2020.11.26-18.13.45:232][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.26-18.13.45:305][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.11.26-18.13.46:103][ 12]LogSlate: Took 0.009227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.26-18.13.46:688][ 16]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.26-18.13.46:690][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.11.26-18.13.46:697][ 16]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.11.26-18.13.46:980][ 16]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.11.26-18.13.47:793][ 16]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/SiteScreen.SiteScreen
+[2020.11.26-18.13.48:174][ 16]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.11.26-18.13.48:500][ 16]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/ChoicesMenu.ChoicesMenu
+[2020.11.26-18.13.49:149][ 16]LogSlate: Took 0.009813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.26-18.13.49:217][ 17]LogAssetRegistry: Asset discovery search completed in 26.5953 seconds
+[2020.11.26-18.13.49:220][ 17]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.11.26-18.13.49:220][ 17]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2020.11.26-18.14.09:353][294]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Paulista_lambert1_003741C77874D837D8384617894F5D549DD.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Paulista/Plataforma_Paulista/Texture/Plataforma_Paulista_lambert1_003_ORM.uasset'
+[2020.11.26-18.14.09:533][294]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.11.26-18.14.09:574][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.11.26-18.14.09:605][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.26-18.14.09:695][294]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_PaulistaMat24AA2F904CC05C3716D9B192628FBCB8.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Paulista/Plataforma_Paulista/Plataforma_PaulistaMat.uasset'
+[2020.11.26-18.14.25:292][292]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Paulista_CP_lambert1_A29CF73040EC58CD2BEDBE8BAF1D0342.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Paulista/Plataforma_Paulista_CP/Texture/Plataforma_Paulista_CP_lambert1_002_ORM.uasset'
+[2020.11.26-18.14.25:440][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.11.26-18.14.25:480][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.11.26-18.14.25:514][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.26-18.14.25:583][292]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Paulista_CPMat32B26D184AFE8D35D6FA1C8414A6B4A8.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Paulista/Plataforma_Paulista_CP/Plataforma_Paulista_CPMat.uasset'
+[2020.11.26-18.14.45:080][473]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Republica_lambert1_00344B981F4C1310E0824E598A440C69F7.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Republica/Plataforma_Republica/Texture/Plataforma_Republica_lambert1_002_ORM.uasset'
+[2020.11.26-18.14.45:232][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.11.26-18.14.45:268][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.11.26-18.14.45:300][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.11.26-18.14.45:370][473]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_RepublicaMat3DEE353E4739D98C8D9DFDA96954F818.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAmarela/Republica/Plataforma_Republica/Plataforma_RepublicaMat.uasset'
+[2020.11.26-18.14.45:430][474]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={3B75E7C7-479D-F86D-A2A3-75A6226F80A7}
+[2020.11.26-18.14.45:430][474]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={21C4667C-4BA9-3FD5-10D7-9894DF9E17E5}
+[2020.11.26-18.14.45:430][474]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={D44BFE9F-44FA-470D-B751-FFBD1B1FAF45}
+[2020.11.26-18.15.02:759][557]LogMaterial: Display: Missing cached shader map for material Plataforma_AnhagabauMat, compiling. 
+[2020.11.26-18.15.02:820][557]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.26-18.15.02:820][557]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.26-18.15.02:820][557]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.26-18.15.02:820][557]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.15.02:879][557]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhagabau_lambert1_00334633B34AB07E4C663EEEB31FACC69E.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau/Texture/Plataforma_Anhagabau_lambert1_001_ORM.uasset'
+[2020.11.26-18.15.03:100][557]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.11.26-18.15.03:157][557]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.11.26-18.15.03:205][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.11.26-18.15.06:086][557]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_AnhagabauMatD00210D049EC49CCE38EBC9BFD80789E.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau/Plataforma_AnhagabauMat.uasset'
+[2020.11.26-18.15.19:947][357]LogMaterial: Display: Missing cached shader map for material Plataforma_Anhagabau_CEMat, compiling. 
+[2020.11.26-18.15.19:974][357]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.26-18.15.19:974][357]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.26-18.15.19:974][357]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.26-18.15.19:974][357]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.15.20:084][357]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhagabau_CE_lambert182696F134F9229FDA151C3A8C4AD0704.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_CE/Texture/Plataforma_Anhagabau_CE_lambert1_001_BC.uasset'
+[2020.11.26-18.15.20:365][357]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.11.26-18.15.20:423][357]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.11.26-18.15.20:469][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.11.26-18.15.23:079][357]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhagabau_CEMat501F937242520D6546B1EAA63AC65CB7.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_CE/Plataforma_Anhagabau_CEMat.uasset'
+[2020.11.26-18.15.26:645][550]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhagabau_CE_lambert16D6B092B45E75498E3768A8EB58D0303.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_CE/Texture/Plataforma_Anhagabau_CE_lambert1_001_N.uasset'
+[2020.11.26-18.15.26:795][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.11.26-18.15.26:833][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.11.26-18.15.26:863][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.26-18.15.26:908][550]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhagabau_CEMat81FAC2FF413BABD3BD3C1787B020989A.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_CE/Plataforma_Anhagabau_CEMat.uasset'
+[2020.11.26-18.15.36:272][ 67]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhagabau_CE_lambert15BECF59A42BB8CC8EA6900A6362CB649.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_CE/Texture/Plataforma_Anhagabau_CE_lambert1_001_ORM.uasset'
+[2020.11.26-18.15.36:429][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.11.26-18.15.36:468][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.11.26-18.15.36:500][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.26-18.15.36:547][ 67]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhagabau_CEMat6E037D8F44677A5ABC91D78B5DC70E9D.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_CE/Plataforma_Anhagabau_CEMat.uasset'
+[2020.11.26-18.15.46:289][645]LogMaterial: Display: Missing cached shader map for material Plataforma_Anhagabau_CPMat, compiling. 
+[2020.11.26-18.15.46:310][645]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.26-18.15.46:310][645]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.26-18.15.46:310][645]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.26-18.15.46:310][645]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.15.46:439][645]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhagabau_CP_lambert14E4507BF4C81A0C7D60418B81BC7D335.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_CP/Texture/Plataforma_Anhagabau_CP_lambert1_001_BC.uasset'
+[2020.11.26-18.15.46:600][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.11.26-18.15.46:646][645]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.11.26-18.15.46:687][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.11.26-18.15.49:545][645]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhagabau_CPMat537B015C4B9BF445DF48EA89FEB9C8B1.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_CP/Plataforma_Anhagabau_CPMat.uasset'
+[2020.11.26-18.15.52:417][798]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhagabau_CP_lambert12CE38F1B4C77DB5116FD41BD70CD5E32.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_CP/Texture/Plataforma_Anhagabau_CP_lambert1_001_N.uasset'
+[2020.11.26-18.15.52:569][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.11.26-18.15.52:607][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.11.26-18.15.52:639][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.26-18.15.52:683][798]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhagabau_CPMat53AC5E024CFDB85B95A81FBF29351E33.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_CP/Plataforma_Anhagabau_CPMat.uasset'
+[2020.11.26-18.16.01:675][301]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhagabau_CP_lambert1DC663E5240B72D11708596B6EE6A657A.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_CP/Texture/Plataforma_Anhagabau_CP_lambert1_001_ORM.uasset'
+[2020.11.26-18.16.01:823][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.11.26-18.16.01:860][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.11.26-18.16.01:892][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.26-18.16.01:939][301]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhagabau_CPMatDCB20B1B44DE6277E95BAAB1BDCD319F.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_CP/Plataforma_Anhagabau_CPMat.uasset'
+[2020.11.26-18.16.20:073][614]LogMaterial: Display: Missing cached shader map for material Plataforma_Anhgabau_PilarMat, compiling. 
+[2020.11.26-18.16.20:094][614]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.26-18.16.20:094][614]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.26-18.16.20:094][614]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.26-18.16.20:094][614]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.16.20:214][614]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhagabau_Pilar_BC7AC11A454BCB020A40184EA9C18E5212.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_Pilar/Texture/Plataforma_Anhagabau_Pilar_BC.uasset'
+[2020.11.26-18.16.20:456][614]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.11.26-18.16.20:511][614]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.11.26-18.16.20:559][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.11.26-18.16.23:367][614]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhgabau_PilarMat1714CA954B34A10A4D8419A9D7B2345B.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_Pilar/Plataforma_Anhgabau_PilarMat.uasset'
+[2020.11.26-18.16.32:582][283]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhagabau_Pilar_N0F2D0E8E41D79D34E309A9B31B425D1A.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_Pilar/Texture/Plataforma_Anhagabau_Pilar_N.uasset'
+[2020.11.26-18.16.32:730][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.11.26-18.16.32:770][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.11.26-18.16.32:803][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.26-18.16.32:848][283]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhgabau_PilarMat3872742247C1C5414E7DB499F35BB6E7.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_Pilar/Plataforma_Anhgabau_PilarMat.uasset'
+[2020.11.26-18.16.44:075][218]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhagabau_Pilar_ORM1B4F139C4AE1D209640E3EBEA36A47EB.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_Pilar/Texture/Plataforma_Anhagabau_Pilar_ORM.uasset'
+[2020.11.26-18.16.44:222][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.11.26-18.16.44:262][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.11.26-18.16.44:293][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.26-18.16.44:338][218]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Anhgabau_PilarMatFE409B8042300A32EDA31BB55733DB89.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Anhagabau/Plataforma_Anhagabau_Pilar/Plataforma_Anhgabau_PilarMat.uasset'
+[2020.11.26-18.16.57:474][980]LogMaterial: Display: Missing cached shader map for material Plataforma_ArturAlvimMat, compiling. 
+[2020.11.26-18.16.57:496][980]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.26-18.16.57:496][980]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.26-18.16.57:496][980]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.26-18.16.57:496][980]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.16.57:594][980]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_lambert1_0B3101F5E4A8A668C40B0FFB7BC2B88A4.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim/Texture/Plataforma_ArturAlvim_lambert1_001_BC.uasset'
+[2020.11.26-18.16.57:818][980]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.11.26-18.16.57:885][980]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.11.26-18.16.57:932][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.11.26-18.17.00:718][980]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvimMatD75535894D56137FF432B09F703B350C.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim/Plataforma_ArturAlvimMat.uasset'
+[2020.11.26-18.17.07:410][454]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_lambert1_0A05193B449D45167144873A05E30EDEC.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim/Texture/Plataforma_ArturAlvim_lambert1_001_ORM.uasset'
+[2020.11.26-18.17.07:560][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.11.26-18.17.07:599][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.11.26-18.17.07:632][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.26-18.17.07:680][454]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvimMatE8A4D8F4477D3338411493B652310ACA.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim/Plataforma_ArturAlvimMat.uasset'
+[2020.11.26-18.17.23:015][697]LogMaterial: Display: Missing cached shader map for material Plataforma_ArturAlvim_Ext_PSMat, compiling. 
+[2020.11.26-18.17.23:037][697]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.26-18.17.23:037][697]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.26-18.17.23:037][697]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.26-18.17.23:037][697]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.17.23:208][697]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_Ext_PS_BCEDEB7D474376B7BA597F379D527F3187.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Ext_PS/Texture/Plataforma_ArturAlvim_Ext_PS_BC.uasset'
+[2020.11.26-18.17.23:483][697]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.11.26-18.17.23:540][697]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.11.26-18.17.23:584][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.11.26-18.17.26:213][697]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_Ext_PSMatC94D6BE74E1D2E5B1CED479E226E535A.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Ext_PS/Plataforma_ArturAlvim_Ext_PSMat.uasset'
+[2020.11.26-18.17.26:967][739]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Ext_PS/Texture/Plataforma_ArturAlvim_Ext_PS_lambert1_001_Normal.Plataforma_ArturAlvim_Ext_PS_lambert1_001_Normal
+[2020.11.26-18.17.26:973][739]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.11.26-18.17.30:085][867]LogSlate: Window 'Plataforma_ArturAlvim_Ext_PS_lambert1_001_Normal' being destroyed
+[2020.11.26-18.17.39:825][412]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_Ext_PS_Nor35B77DCF4B4E716FF48D76B619520B9D.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Ext_PS/Texture/Plataforma_ArturAlvim_Ext_PS_Normal.uasset'
+[2020.11.26-18.17.40:014][412]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.11.26-18.17.40:069][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.11.26-18.17.40:100][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.26-18.17.40:144][412]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_Ext_PSMat816576AB418B4AC69F2FB7BD72894CE9.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Ext_PS/Plataforma_ArturAlvim_Ext_PSMat.uasset'
+[2020.11.26-18.17.51:056][362]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_Ext_PS_ORM1551F3B1496F1E4B26BDC4B8460E1CAF.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Ext_PS/Texture/Plataforma_ArturAlvim_Ext_PS_ORM.uasset'
+[2020.11.26-18.17.51:206][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.11.26-18.17.51:243][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.11.26-18.17.51:277][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.26-18.17.51:323][362]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_Ext_PSMatE9D74AE9465081A9EA5481BBF290415A.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Ext_PS/Plataforma_ArturAlvim_Ext_PSMat.uasset'
+[2020.11.26-18.18.15:952][428]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/ArturAlvim_Letreiro_Flut_BCFDEFD4324F9B45F22E81D7A38B5E61DD.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Letreiro_Flut/Texture/ArturAlvim_Letreiro_Flut_BC.uasset'
+[2020.11.26-18.18.16:105][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.11.26-18.18.16:141][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.11.26-18.18.16:172][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.26-18.18.16:242][428]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_LetreFlutM9C39F5844F675F0795A86CA02DAE89AC.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Letreiro_Flut/Plataforma_ArturAlvim_LetreFlutMat.uasset'
+[2020.11.26-18.18.25:054][ 51]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/ArturAlvim_Letreiro_Flut_NRM3BCFD92449927A11D466A5BDF1A628B9.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Letreiro_Flut/Texture/ArturAlvim_Letreiro_Flut_NRM.uasset'
+[2020.11.26-18.18.25:203][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.11.26-18.18.25:241][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.11.26-18.18.25:273][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.11.26-18.18.25:317][ 51]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_LetreFlutM58E877EF49EFD731538346926F9ED682.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Letreiro_Flut/Plataforma_ArturAlvim_LetreFlutMat.uasset'
+[2020.11.26-18.18.31:009][413]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/ArturAlvim_Letreiro_Flut_ORMB347B2DB48295E01979823B437FFE190.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Letreiro_Flut/Texture/ArturAlvim_Letreiro_Flut_ORM.uasset'
+[2020.11.26-18.18.31:157][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.11.26-18.18.31:195][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.11.26-18.18.31:227][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.26-18.18.31:272][413]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_LetreFlutMB08D4C564F1ECAFABCA5888577309B1F.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Letreiro_Flut/Plataforma_ArturAlvim_LetreFlutMat.uasset'
+[2020.11.26-18.18.47:179][332]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Letreiro_PA/Texture/Plataforma_ArturAlvim_Letreiro_PA_DefaultMaterial_BaseColor.Plataforma_ArturAlvim_Letreiro_PA_DefaultMaterial_BaseColor
+[2020.11.26-18.18.48:745][399]LogSlate: Window 'Plataforma_ArturAlvim_Letreiro_PA_DefaultMaterial_BaseColor' being destroyed
+[2020.11.26-18.19.04:002][774]LogMaterial: Display: Missing cached shader map for material Plataforma_ArturAlvim_Letreiro_PAMat, compiling. 
+[2020.11.26-18.19.04:027][774]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.26-18.19.04:027][774]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.26-18.19.04:027][774]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.26-18.19.04:027][774]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.19.04:078][774]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/ArturAlvim_Letreiro_PA_BC9E57020F4D06FF1CA8BDB8A134AC6B08.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Letreiro_PA/Texture/ArturAlvim_Letreiro_PA_BC.uasset'
+[2020.11.26-18.19.04:327][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.11.26-18.19.04:385][774]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2020.11.26-18.19.04:439][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.11.26-18.19.07:171][774]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_Letreiro_P98AF69024D42F47744ED86B49A710702.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Letreiro_PA/Plataforma_ArturAlvim_Letreiro_PAMat.uasset'
+[2020.11.26-18.19.10:918][ 17]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/ArturAlvim_Letreiro_PA_NRM9C8FD1EF41BC0BCD1FE0D98016D72DFE.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Letreiro_PA/Texture/ArturAlvim_Letreiro_PA_NRM.uasset'
+[2020.11.26-18.19.11:069][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.11.26-18.19.11:110][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.11.26-18.19.11:143][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.26-18.19.11:188][ 17]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_Letreiro_P91AB3D184F698645F4E48B9CE62D6A09.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Letreiro_PA/Plataforma_ArturAlvim_Letreiro_PAMat.uasset'
+[2020.11.26-18.19.14:684][253]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/ArturAlvim_Letreiro_PA_ORM2186C73C4B0EC3ACE009C2B1D41D24ED.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Letreiro_PA/Texture/ArturAlvim_Letreiro_PA_ORM.uasset'
+[2020.11.26-18.19.14:838][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.11.26-18.19.14:877][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.11.26-18.19.14:909][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.26-18.19.14:954][253]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_Letreiro_P1EBB0D2E47064551248331827520943F.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Letreiro_PA/Plataforma_ArturAlvim_Letreiro_PAMat.uasset'
+[2020.11.26-18.19.36:175][804]LogMaterial: Display: Missing cached shader map for material Plataforma_ArturAlvim_PropagMat, compiling. 
+[2020.11.26-18.19.36:190][804]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.26-18.19.36:190][804]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.26-18.19.36:190][804]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.26-18.19.36:190][804]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.19.36:273][804]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/ArturAlvim_Propag_BC44A29ECC4422DDA990E0338089062B87.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Propag/Texture/ArturAlvim_Propag_BC.uasset'
+[2020.11.26-18.19.36:501][804]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.11.26-18.19.36:561][804]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.11.26-18.19.36:617][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.11.26-18.19.39:425][804]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_PropagMat5B23AD2D47F19ABCF9D30E9A8158A7A1.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Propag/Plataforma_ArturAlvim_PropagMat.uasset'
+[2020.11.26-18.19.42:656][  8]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/ArturAlvim_Propag_NRM4FFDE47C46B0D2678765B99416DBA2D7.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Propag/Texture/ArturAlvim_Propag_NRM.uasset'
+[2020.11.26-18.19.42:800][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.11.26-18.19.42:837][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.11.26-18.19.42:868][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.11.26-18.19.42:913][  8]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_PropagMat37DC02D749BF13822536209747132E6E.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Propag/Plataforma_ArturAlvim_PropagMat.uasset'
+[2020.11.26-18.19.46:460][238]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/ArturAlvim_Propag_ORM6AA6B099485677CE294E5B881A7E801F.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Propag/Texture/ArturAlvim_Propag_ORM.uasset'
+[2020.11.26-18.19.46:608][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.11.26-18.19.46:645][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.11.26-18.19.46:674][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.26-18.19.46:719][238]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_ArturAlvim_PropagMat73E4F4EC425825B679E204A0859B6807.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/ArturAlvim/Plataforma_ArturAlvim_Propag/Plataforma_ArturAlvim_PropagMat.uasset'
+[2020.11.26-18.20.01:229][ 75]LogMaterial: Display: Missing cached shader map for material Plataforma_CarraoMat, compiling. 
+[2020.11.26-18.20.01:253][ 75]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.26-18.20.01:253][ 75]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.26-18.20.01:253][ 75]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.26-18.20.01:253][ 75]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.20.01:331][ 75]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Carrao_lambert1_001_O1F967FCA4CC4F0C19B126ABFC6635A1E.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao/Texture/Plataforma_Carrao_lambert1_001_ORM.uasset'
+[2020.11.26-18.20.01:568][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2020.11.26-18.20.01:633][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.11.26-18.20.01:688][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.11.26-18.20.04:480][ 75]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CarraoMat0E827BF144062661CBA3E59D623AF919.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao/Plataforma_CarraoMat.uasset'
+[2020.11.26-18.20.29:166][ 56]LogMaterial: Display: Missing cached shader map for material Plataforma_Carrao_Letreiro_FlutMat, compiling. 
+[2020.11.26-18.20.29:190][ 56]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.26-18.20.29:190][ 56]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.26-18.20.29:190][ 56]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.26-18.20.29:190][ 56]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.20.29:257][ 56]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Carrao_Letreiro_Flut_BCFA81389B439C04969F2A83A91D6EF5A2.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_Letreiro_Flut/Texture/Carrao_Letreiro_Flut_BC.uasset'
+[2020.11.26-18.20.29:483][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.11.26-18.20.29:554][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2020.11.26-18.20.29:619][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.11.26-18.20.32:395][ 56]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Carrao_Letreiro_FlutM99B80AE7444A5CC77EAD77B69D27B035.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_Letreiro_Flut/Plataforma_Carrao_Letreiro_FlutMat.uasset'
+[2020.11.26-18.20.35:825][282]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Carrao_Letreiro_Flut_NRM5430C0674A44390C92EF7384B89C2C5C.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_Letreiro_Flut/Texture/Carrao_Letreiro_Flut_NRM.uasset'
+[2020.11.26-18.20.35:974][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.11.26-18.20.36:013][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.11.26-18.20.36:045][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.11.26-18.20.36:093][282]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Carrao_Letreiro_FlutM0A433FC2426355F6751188A28F2BE784.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_Letreiro_Flut/Plataforma_Carrao_Letreiro_FlutMat.uasset'
+[2020.11.26-18.20.39:279][501]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Carrao_Letreiro_Flut_ORMBE17DD924F7CD68BD297E9BE7A846DD2.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_Letreiro_Flut/Texture/Carrao_Letreiro_Flut_ORM.uasset'
+[2020.11.26-18.20.39:431][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.11.26-18.20.39:473][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.11.26-18.20.39:504][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.11.26-18.20.39:557][501]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Carrao_Letreiro_FlutM887F13D24BAB39183590919284ACE542.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_Letreiro_Flut/Plataforma_Carrao_Letreiro_FlutMat.uasset'
+[2020.11.26-18.20.59:947][674]LogMaterial: Display: Missing cached shader map for material Plataforma_Carrao_Letreiro_PAMat, compiling. 
+[2020.11.26-18.20.59:967][674]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.26-18.20.59:967][674]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.26-18.20.59:967][674]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.26-18.20.59:967][674]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.21.00:047][674]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Carrao_Letreiro_PA_BC3AC8CF3540F376A8216D62ADC4321266.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_Letreiro_PA/Texture/Carrao_Letreiro_PA_BC.uasset'
+[2020.11.26-18.21.00:282][674]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2020.11.26-18.21.00:345][674]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2020.11.26-18.21.00:396][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.11.26-18.21.03:246][674]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Carrao_Letreiro_PAMat7C35C1874F5651DAC4FC48872AF10052.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_Letreiro_PA/Plataforma_Carrao_Letreiro_PAMat.uasset'
+[2020.11.26-18.21.06:313][870]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Carrao_Letreiro_PA_NRMB8FA80944110928332C288A3D0418609.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_Letreiro_PA/Texture/Carrao_Letreiro_PA_NRM.uasset'
+[2020.11.26-18.21.06:461][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.11.26-18.21.06:499][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.11.26-18.21.06:530][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.26-18.21.06:575][870]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Carrao_Letreiro_PAMat011203664A00280569B083A8C6FD9D71.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_Letreiro_PA/Plataforma_Carrao_Letreiro_PAMat.uasset'
+[2020.11.26-18.21.10:397][170]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Carrao_Letreiro_PA_ORMA06C0D5D4518988358A88FA117A3D0F0.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_Letreiro_PA/Texture/Carrao_Letreiro_PA_ORM.uasset'
+[2020.11.26-18.21.10:544][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.11.26-18.21.10:583][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.11.26-18.21.10:613][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.11.26-18.21.10:659][170]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Carrao_Letreiro_PAMat01BC58F94066AFAF7BD3528454C8E704.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_Letreiro_PA/Plataforma_Carrao_Letreiro_PAMat.uasset'
+[2020.11.26-18.21.23:298][894]LogMaterial: Display: Missing cached shader map for material Plataforma_Carrao_PMat, compiling. 
+[2020.11.26-18.21.23:318][894]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.26-18.21.23:319][894]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.26-18.21.23:319][894]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.26-18.21.23:319][894]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.21.23:402][894]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Carrao_P_lambert1_001AEB9F6A24B79BD4C4B99BAB4413EE7AC.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_P/Texture/Plataforma_Carrao_P_lambert1_001_ORM.uasset'
+[2020.11.26-18.21.23:636][894]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.11.26-18.21.23:695][894]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.11.26-18.21.23:748][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.11.26-18.21.26:620][894]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Carrao_PMat53AB7D484840BFE1B40DDD8A268CD8CD.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_P/Plataforma_Carrao_PMat.uasset'
+[2020.11.26-18.21.46:385][ 34]LogMaterial: Display: Missing cached shader map for material Plataforma_Carrao_PELMat, compiling. 
+[2020.11.26-18.21.46:405][ 34]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.26-18.21.46:405][ 34]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.26-18.21.46:405][ 34]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.26-18.21.46:405][ 34]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.21.46:527][ 34]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Carrao_Extintor_PEL_BC52C72963435050D2520619A8E039BBF8.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_PEL/Texture/Carrao_Extintor_PEL_BC.uasset'
+[2020.11.26-18.21.46:817][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2020.11.26-18.21.46:876][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.11.26-18.21.46:923][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.11.26-18.21.49:547][ 34]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Carrao_PELMat684323C846DE78BB25CA4C9039563988.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_PEL/Plataforma_Carrao_PELMat.uasset'
+[2020.11.26-18.21.52:385][221]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Carrao_Extintor_PEL_NRM2C304CAC4AAF3FC9DE358B834AAED36F.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_PEL/Texture/Carrao_Extintor_PEL_NRM.uasset'
+[2020.11.26-18.21.52:538][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.11.26-18.21.52:576][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.11.26-18.21.52:607][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.26-18.21.52:653][221]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Carrao_PELMatBD6E26F843C9ED2A86775589A3042273.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_PEL/Plataforma_Carrao_PELMat.uasset'
+[2020.11.26-18.21.56:334][473]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Carrao_Extintor_PEL_ORM4D16C35B49C2FCD640A077BAD07E870C.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_PEL/Texture/Carrao_Extintor_PEL_ORM.uasset'
+[2020.11.26-18.21.56:484][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.11.26-18.21.56:522][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.11.26-18.21.56:555][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.26-18.21.56:601][473]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Carrao_PELMatFA4C15ED448567E6527A799FF048E16B.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVermelha/Carrao/Plataforma_Carrao_PEL/Plataforma_Carrao_PELMat.uasset'
+[2020.11.26-18.22.26:482][529]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipiranga_Elevador_BC304C763346B80AB57AE913B56071E580.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Texture/Alto_do_Ipiranga_Elevador_BC.uasset'
+[2020.11.26-18.22.26:633][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.11.26-18.22.26:670][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.11.26-18.22.26:702][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.26-18.22.26:770][529]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/ElevadorE555FC064B0A582FA1BD12899F09AF17.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Elevador.uasset'
+[2020.11.26-18.22.31:668][834]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipiranga_Elevador_NRM2704E73F43EB50D31DBC4494FAF638B4.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Texture/Alto_do_Ipiranga_Elevador_NRM.uasset'
+[2020.11.26-18.22.31:843][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.11.26-18.22.31:883][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.11.26-18.22.31:912][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.26-18.22.31:962][834]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Elevador69AA7993415080FF63820CB92C7AC2B3.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Elevador.uasset'
+[2020.11.26-18.22.35:225][ 47]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipiranga_Elevador_ORM13B5BE0C4078FA9FC20DB68F74CEC330.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Texture/Alto_do_Ipiranga_Elevador_ORM.uasset'
+[2020.11.26-18.22.35:378][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.11.26-18.22.35:417][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.11.26-18.22.35:448][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.26-18.22.35:493][ 47]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/ElevadorDA1859BC464998A62AD1FDABA37EA68A.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Elevador.uasset'
+[2020.11.26-18.22.49:761][866]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipirang_Plataforma_BCAA2AB193455FCA81883C919BAD32011D.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Texture/Alto_do_Ipirang_Plataforma_BC.uasset'
+[2020.11.26-18.22.49:911][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.11.26-18.22.49:951][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.11.26-18.22.49:981][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.26-18.22.50:049][866]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Superior_Alto_do_Ipir907F18CA435AFBDA63901FAFD3C620CC.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Plataforma_Superior_Alto_do_IpirangaMat.uasset'
+[2020.11.26-18.22.58:578][514]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipirang_Plataforma_NRMA98E7D89435B68E510AD92A2F362BDCA.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Texture/Alto_do_Ipirang_Plataforma_NRM.uasset'
+[2020.11.26-18.22.58:723][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.11.26-18.22.58:762][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.11.26-18.22.58:794][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.26-18.22.58:840][514]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Superior_Alto_do_Ipir09C61E3647C1AFCC262C1E9B5857F16E.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Plataforma_Superior_Alto_do_IpirangaMat.uasset'
+[2020.11.26-18.23.01:805][715]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipirang_Plataforma_ORM66981D554404EF7171B881AF77B9C415.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Texture/Alto_do_Ipirang_Plataforma_ORM.uasset'
+[2020.11.26-18.23.01:959][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.11.26-18.23.01:998][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.11.26-18.23.02:027][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.11.26-18.23.02:115][715]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Superior_Alto_do_Ipir21EC1A10499CFAF213367B819F249B73.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Plataforma_Superior_Alto_do_IpirangaMat.uasset'
+[2020.11.26-18.23.25:176][572]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/CP_Alto_do_Ipiranga_BC4D76793C47FD5049A6A6C3AF0BD3DE38.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Texture/CP_Alto_do_Ipiranga_BC.uasset'
+[2020.11.26-18.23.25:324][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.11.26-18.23.25:359][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.11.26-18.23.25:391][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.26-18.23.25:460][572]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CP_Alto_do_IpirangaMa9E294D3949CCFACC27B24CA9AD6FD426.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_IpirangaMat.uasset'
+[2020.11.26-18.23.29:327][829]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/CP_Alto_do_Ipiranga_NRM65E6FB4E4EAFF677FC31C68EDE8880E1.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Texture/CP_Alto_do_Ipiranga_NRM.uasset'
+[2020.11.26-18.23.29:475][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.11.26-18.23.29:514][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.11.26-18.23.29:546][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.26-18.23.29:592][829]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CP_Alto_do_IpirangaMa09FFA8B64487B2F7B680F5A4D7FB6219.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_IpirangaMat.uasset'
+[2020.11.26-18.23.33:561][147]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/CP_Alto_do_Ipiranga_ORM5D07E35241821DFB75103FBC2AC658BC.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Texture/CP_Alto_do_Ipiranga_ORM.uasset'
+[2020.11.26-18.23.33:714][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.11.26-18.23.33:754][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.11.26-18.23.33:786][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.26-18.23.33:835][147]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CP_Alto_do_IpirangaMaDC1FB93A4419BD79A0FFABB3AD9C048A.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_IpirangaMat.uasset'
+[2020.11.26-18.23.55:788][933]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipiranga_Plataforma_SupeE91690B846B89AA4E4468ABB181C68CE.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Alto_do_Ipiranga_Plataforma_Superior_BC.uasset'
+[2020.11.26-18.23.55:940][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.11.26-18.23.55:977][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.11.26-18.23.56:009][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.11.26-18.23.56:076][933]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Alto_do_Ipiranga_Plat656377AE4383A868805DCDB18BBF9C6F.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat.uasset'
+[2020.11.26-18.24.00:645][218]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipiranga_Plataforma_Supe961700134A1EF8E9D3AE10A502DCD921.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Alto_do_Ipiranga_Plataforma_Superior_NRM.uasset'
+[2020.11.26-18.24.00:804][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.11.26-18.24.00:842][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.11.26-18.24.00:873][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.11.26-18.24.00:919][218]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Alto_do_Ipiranga_PlatE61A70584CCF6674FD5738BDF9803212.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat.uasset'
+[2020.11.26-18.24.03:381][387]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipiranga_Plataforma_Supe1A9206554214CCD916F1669C9ADFD19D.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Alto_do_Ipiranga_Plataforma_Superior_ORM.uasset'
+[2020.11.26-18.24.03:531][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.11.26-18.24.03:569][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.11.26-18.24.03:601][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.26-18.24.03:648][387]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Alto_do_Ipiranga_PlatEAC5C67C471A033BF8440489662881EC.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat.uasset'
+[2020.11.26-18.24.24:610][625]LogMaterial: Display: Missing cached shader map for material Plataforma_CP_MaspMat, compiling. 
+[2020.11.26-18.24.24:632][625]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.26-18.24.24:632][625]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.26-18.24.24:632][625]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.26-18.24.24:632][625]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.24.24:720][625]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CP_Masp_lambert1_001_9089AB5C448FAE71DFCABE94CC226609.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoMasp/Plataforma_CP_Masp/Texture/Plataforma_CP_Masp_lambert1_001_ORM.uasset'
+[2020.11.26-18.24.24:964][625]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.11.26-18.24.25:030][625]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2020.11.26-18.24.25:077][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.11.26-18.24.27:885][625]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CP_MaspMat150546C247D78AAF7E7095A75D97A8D6.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoMasp/Plataforma_CP_Masp/Plataforma_CP_MaspMat.uasset'
+[2020.11.26-18.24.48:846][802]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Masp_lambert1_001_ORMEC485AF849B94C1FF60E78BC4130F7AC.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoMasp/Plataforma_Masp/Texture/Plataforma_Masp_lambert1_001_ORM.uasset'
+[2020.11.26-18.24.48:997][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.11.26-18.24.49:036][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.11.26-18.24.49:065][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.26-18.24.49:132][802]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_MaspMat1900BCFF47E9A67AC61D2B9B25F9CFC9.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoMasp/Plataforma_Masp/Plataforma_MaspMat.uasset'
+[2020.11.26-18.25.05:955][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.11.26-18.25.08:777][766]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.26-18.25.08:939][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.11.26-18.25.08:972][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.26-18.25.09:004][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.26-18.25.09:038][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.26-18.25.09:071][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.11.26-18.25.09:100][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.26-18.25.09:133][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.26-18.25.09:163][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.11.26-18.25.09:193][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.11.26-18.25.09:223][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.11.26-18.25.09:259][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.11.26-18.25.09:290][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.26-18.25.23:321][582]LogMaterial: Display: Missing cached shader map for material Plataforma_SumareMat, compiling. 
+[2020.11.26-18.25.23:347][582]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.26-18.25.23:348][582]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.26-18.25.23:348][582]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.26-18.25.23:348][582]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.25.23:420][582]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_lambert1_002_O796E26D5429AA44C94C09ABAE202EEA1.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare/Texture/Plataforma_Sumare_lambert1_002_ORM.uasset'
+[2020.11.26-18.25.23:694][582]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.11.26-18.25.23:747][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.11.26-18.25.23:847][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.11.26-18.25.26:941][582]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_SumareMat3D9AF3C54565905455165496640A40F7.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare/Plataforma_SumareMat.uasset'
+[2020.11.26-18.25.43:004][954]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Sumare_Barreira_de_Protecao_BC1557DCB34F9CF350160944AFC2A67426.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare_Barreira/Texture/Sumare_Barreira_de_Protecao_BC.uasset'
+[2020.11.26-18.25.43:162][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.11.26-18.25.43:199][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.11.26-18.25.43:231][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.26-18.25.47:506][221]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Sumare_Barreira_de_Protecao_NRMFDFC76974FC7B5FE8F08F8AFB66BB358.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare_Barreira/Texture/Sumare_Barreira_de_Protecao_NRM.uasset'
+[2020.11.26-18.25.47:656][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.11.26-18.25.47:697][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.11.26-18.25.47:731][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.26-18.25.52:083][495]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Sumare_Barreira_de_Protecao_ORM8C8F4FAE4EB251C1A05704837E08813B.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare_Barreira/Texture/Sumare_Barreira_de_Protecao_ORM.uasset'
+[2020.11.26-18.25.52:238][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.11.26-18.25.52:276][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.11.26-18.25.52:310][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.26-18.26.46:769][105]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.11.26-18.26.48:593][105]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.26-18.26.48:736][105]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.11.26-18.26.48:775][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.26-18.26.48:811][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.26-18.26.48:847][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.26-18.26.48:886][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.26-18.26.48:919][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.11.26-18.26.48:958][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.11.26-18.26.48:996][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.11.26-18.27.04:301][798]LogMaterial: Display: Missing cached shader map for material Plataforma_Sumare_SaidaMat, compiling. 
+[2020.11.26-18.27.04:324][798]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.26-18.27.04:324][798]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.26-18.27.04:324][798]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.26-18.27.04:324][798]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.27.04:444][798]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_Saida_lambert1D879E3224D60AE27544241ADB28EA652.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare_Saida/Texture/Plataforma_Sumare_Saida_lambert1_002_BC.uasset'
+[2020.11.26-18.27.04:770][798]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.11.26-18.27.04:969][798]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2020.11.26-18.27.05:096][798]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.11.26-18.27.09:233][798]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_SaidaMatEF65E86848F0031F5883789246B06951.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare_Saida/Plataforma_Sumare_SaidaMat.uasset'
+[2020.11.26-18.27.21:827][204]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_Saida_lambert15FD9B48E43CB6735B34233A72379E50F.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare_Saida/Texture/Plataforma_Sumare_Saida_lambert1_002_NRM.uasset'
+[2020.11.26-18.27.22:005][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.11.26-18.27.22:044][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.11.26-18.27.22:080][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.11.26-18.27.22:131][204]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_SaidaMatC605E3134921FEB84CEF448D831272C4.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare_Saida/Plataforma_Sumare_SaidaMat.uasset'
+[2020.11.26-18.27.28:221][477]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_Saida_lambert1618492974A61BC858A654CA100E0E23F.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare_Saida/Texture/Plataforma_Sumare_Saida_lambert1_002_ORM.uasset'
+[2020.11.26-18.27.28:393][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.11.26-18.27.28:437][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.11.26-18.27.28:472][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.11.26-18.27.28:524][477]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_SaidaMat3C9D06E14A3D5B57159389AD22556A54.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare_Saida/Plataforma_Sumare_SaidaMat.uasset'
+[2020.11.26-18.28.21:034][102]LogStaticMesh: Building static mesh Plataforma_Placa_estacao_Ipiranga...
+[2020.11.26-18.28.21:134][102]LogStaticMesh: Built static mesh [0.11s] /Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Placa_estacao_Ipiranga.Plataforma_Placa_estacao_Ipiranga
+[2020.11.26-18.28.21:431][102]LogStaticMesh: Building static mesh Plataforma_Masp_Bilheteria...
+[2020.11.26-18.28.21:441][102]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoMasp/Plataforma_Masp_Bilheteria/Plataforma_Masp_Bilheteria.Plataforma_Masp_Bilheteria
+[2020.11.26-18.28.21:456][102]LogMaterial: Display: Missing cached shader map for material Plataforma_Masp_BilheteriaMat, compiling. 
+[2020.11.26-18.28.21:471][102]LogMaterial: Display: Missing cached shader map for material Plataforma_Masp_DisplayMat, compiling. 
+[2020.11.26-18.28.21:507][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.11.26-18.28.21:507][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.11.26-18.28.21:507][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.11.26-18.28.21:507][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.11.26-18.28.21:507][102]LogMaterial: Display: Missing cached shader map for material Plataforma_Masp_DisplayADMat, compiling. 
+[2020.11.26-18.28.21:560][102]LogStaticMesh: Building static mesh Plataforma_Sumare...
+[2020.11.26-18.28.21:573][102]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare/Plataforma_Sumare.Plataforma_Sumare
+[2020.11.26-18.28.21:583][102]LogStaticMesh: Building static mesh Barreira_de_Protecao...
+[2020.11.26-18.28.21:629][102]LogStaticMesh: Built static mesh [0.05s] /Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare_Barreira/Barreira_de_Protecao.Barreira_de_Protecao
+[2020.11.26-18.28.21:645][102]LogMaterial: Display: Missing cached shader map for material Barreira_de_ProtecaoMat, compiling. 
+[2020.11.26-18.28.21:667][102]LogStaticMesh: Building static mesh Plataforma_Sumare_Bilheteria...
+[2020.11.26-18.28.21:677][102]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare_Bilheteria/Plataforma_Sumare_Bilheteria.Plataforma_Sumare_Bilheteria
+[2020.11.26-18.28.21:693][102]LogStaticMesh: Building static mesh Plataforma_Sumare_Saida...
+[2020.11.26-18.28.21:713][102]LogStaticMesh: Built static mesh [0.02s] /Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare_Saida/Plataforma_Sumare_Saida.Plataforma_Sumare_Saida
+[2020.11.26-18.28.21:722][102]LogStaticMesh: Building static mesh Plataforma_Sumare_Vidro_Prot...
+[2020.11.26-18.28.21:740][102]LogStaticMesh: Built static mesh [0.02s] /Game/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare_Vidro_Prot/Plataforma_Sumare_Vidro_Prot.Plataforma_Sumare_Vidro_Prot
+[2020.11.26-18.28.21:753][102]LogMaterial: Display: Missing cached shader map for material Plataforma_Sumare_Vidro_ProtMat, compiling. 
+[2020.11.26-18.28.23:339][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_Saida_lambert16B0825E74090EE20504EE3B2BA07B5D5.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare_Saida/Texture/Plataforma_Sumare_Saida_lambert1_002_NRM.uasset'
+[2020.11.26-18.28.23:398][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Sumare_Barreira_de_Protecao_ORMDB264A9F481273CE53C339B106A634C1.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare_Barreira/Texture/Sumare_Barreira_de_Protecao_ORM.uasset'
+[2020.11.26-18.28.23:476][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Sumare_Barreira_de_Protecao_BC8B9478F34A1493F0BCD3BDB0858E0AA4.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare_Barreira/Texture/Sumare_Barreira_de_Protecao_BC.uasset'
+[2020.11.26-18.28.23:589][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Sumare_Barreira_de_Protecao_NRM8160FFD24D02EC4284AC02BAD2FC9F02.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare_Barreira/Texture/Sumare_Barreira_de_Protecao_NRM.uasset'
+[2020.11.26-18.28.23:670][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_Saida_lambert103C1662A49F2BD9BB44842BC463AAA7A.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare_Saida/Texture/Plataforma_Sumare_Saida_lambert1_002_BC.uasset'
+[2020.11.26-18.28.23:724][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_SumareMat9050925C4976693032C930AA44FF3DC9.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare/Plataforma_SumareMat.uasset'
+[2020.11.26-18.28.23:821][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_lambert1_002_NDD6F11104D07D1FAB2A983925EEC7E92.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare/Texture/Plataforma_Sumare_lambert1_002_Normal.uasset'
+[2020.11.26-18.28.23:904][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_lambert1_002_B2F4D2F0449B45D0E8132E7AE6A140DCE.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare/Texture/Plataforma_Sumare_lambert1_002_BaseColor.uasset'
+[2020.11.26-18.28.23:913][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 88
+[2020.11.26-18.28.23:956][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_lambert1_002_O4ACEA562467FE93ABFC4DB8701CC0F5F.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare/Texture/Plataforma_Sumare_lambert1_002_ORM.uasset'
+[2020.11.26-18.28.24:008][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_MaspMatDE91B94844F9CBC3D0D7B095B65DF314.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_Masp/Plataforma_MaspMat.uasset'
+[2020.11.26-18.28.24:107][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Masp_lambert1_001_Nor4F96B6B14FB198E00D22E48C0B1FE950.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_Masp/Texture/Plataforma_Masp_lambert1_001_Normal.uasset'
+[2020.11.26-18.28.24:169][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Masp_lambert1_001_Bas2CF246D04777A017DAEB52A84155211A.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_Masp/Texture/Plataforma_Masp_lambert1_001_BaseColor.uasset'
+[2020.11.26-18.28.24:221][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Masp_lambert1_001_ORME5B26CE445E9636C9BD7D28EB00BFDC3.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_Masp/Texture/Plataforma_Masp_lambert1_001_ORM.uasset'
+[2020.11.26-18.28.24:281][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CP_MaspMat4951EF5E43464082ED94A2A64362D916.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_CP_Masp/Plataforma_CP_MaspMat.uasset'
+[2020.11.26-18.28.24:380][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 78
+[2020.11.26-18.28.24:380][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CP_Masp_lambert1_001_32AAE7B4495041D6C49B04BB3C5EB07F.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_CP_Masp/Texture/Plataforma_CP_Masp_lambert1_001_Normal.uasset'
+[2020.11.26-18.28.24:473][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CP_Masp_lambert1_001_43116A0E407CF61CE0EAF88F0382D49C.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_CP_Masp/Texture/Plataforma_CP_Masp_lambert1_001_BaseColor.uasset'
+[2020.11.26-18.28.24:530][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Alto_do_Ipiranga_PlatFCD54694455B772B6424E09A1629B926.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_SuperiorMat.uasset'
+[2020.11.26-18.28.24:566][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipiranga_Plataforma_SupeAB1FE92346B1E27C87E78F9A74C65B5E.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Alto_do_Ipiranga_Plataforma_Superior_ORM.uasset'
+[2020.11.26-18.28.24:667][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipiranga_Plataforma_Supe93722DA94325AFE7074E42AB08B63B40.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Alto_do_Ipiranga_Plataforma_Superior_NRM.uasset'
+[2020.11.26-18.28.24:730][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CP_Masp_lambert1_001_725C33824042957592DE92A71A48B326.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_CP_Masp/Texture/Plataforma_CP_Masp_lambert1_001_ORM.uasset'
+[2020.11.26-18.28.24:799][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_SaidaMat6D183716417DCD9BD539C28627304E0D.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare_Saida/Plataforma_Sumare_SaidaMat.uasset'
+[2020.11.26-18.28.24:861][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CP_Alto_do_IpirangaMaFE149CB74E87EB6DCBB5E9A5A43BB807.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_IpirangaMat.uasset'
+[2020.11.26-18.28.24:924][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/CP_Alto_do_Ipiranga_ORM551381AC453926D49857229A7A12D1B5.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Texture/CP_Alto_do_Ipiranga_ORM.uasset'
+[2020.11.26-18.28.25:029][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/CP_Alto_do_Ipiranga_NRM548A3E364BCAEFBF7FF0E8964BB55F41.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Texture/CP_Alto_do_Ipiranga_NRM.uasset'
+[2020.11.26-18.28.25:098][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipiranga_Plataforma_Supe50C254B84ABF77AD028FA58632994958.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Plataforma_Superior/Texture/Alto_do_Ipiranga_Plataforma_Superior_BC.uasset'
+[2020.11.26-18.28.25:199][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 68
+[2020.11.26-18.28.25:199][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Superior_Alto_do_Ipir8376EA2E490F5305E040B58292D6301C.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Plataforma_Superior_Alto_do_IpirangaMat.uasset'
+[2020.11.26-18.28.25:278][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipirang_Plataforma_ORM764E987D4E3EC81C8F6E21B6AE4BA727.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Texture/Alto_do_Ipirang_Plataforma_ORM.uasset'
+[2020.11.26-18.28.25:380][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipirang_Plataforma_NRM170A8DB4469F6ACE559463BDEB1F1231.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Texture/Alto_do_Ipirang_Plataforma_NRM.uasset'
+[2020.11.26-18.28.25:461][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/CP_Alto_do_Ipiranga_BCD1D0843942CF798D4F3FED9DF6A5FDDC.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Texture/CP_Alto_do_Ipiranga_BC.uasset'
+[2020.11.26-18.28.25:518][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Elevador27D78DD642303306D7AEC18C27ED3179.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Elevador/Elevador.uasset'
+[2020.11.26-18.28.25:577][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipiranga_Elevador_ORM6A005DD94507DB159CAD37B33B9827CC.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Elevador/Texture/Alto_do_Ipiranga_Elevador_ORM.uasset'
+[2020.11.26-18.28.25:693][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipiranga_Elevador_NRMD3DB8EF941EE2844ACB4FEA90AB424BD.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Elevador/Texture/Alto_do_Ipiranga_Elevador_NRM.uasset'
+[2020.11.26-18.28.25:796][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipirang_Plataforma_BC31806725453BF72AFF1F488463D60F05.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Texture/Alto_do_Ipirang_Plataforma_BC.uasset'
+[2020.11.26-18.28.25:914][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Alto_do_Ipiranga_Elevador_BC9DC44ACA4D0B727925018983CB3CA42D.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Elevador/Texture/Alto_do_Ipiranga_Elevador_BC.uasset'
+[2020.11.26-18.28.25:950][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_Saida_lambert17D400E3D4C2CBE149F71D5BABDCDDC05.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare_Saida/Texture/Plataforma_Sumare_Saida_lambert1_002_ORM.uasset'
+[2020.11.26-18.28.26:050][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Placa_estacao_Ipirang5F11B2E643509B26DDC8C0824A97481B.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Plataforma_Placa_estacao_Ipiranga.uasset'
+[2020.11.26-18.28.26:107][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Alto_do_Ipiranga_BilhFB6B63A7428A43AD48891C895FE98336.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Bilheteria/Plataforma_Alto_do_Ipiranga_Bilheteria.uasset'
+[2020.11.26-18.28.26:193][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2020.11.26-18.28.26:193][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Alto_do_Ipiranga_Bilh245C819644B93942E10A32904324FD1B.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Bilheteria/Plataforma_Alto_do_Ipiranga_Bilheteria.uasset'
+[2020.11.26-18.28.26:255][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Alto_do_Ipiranga_ElevC7CED9BD4C4FBEA337FD5C9A0E8DC061.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Elevador/Plataforma_Alto_do_Ipiranga_Elevador.uasset'
+[2020.11.26-18.28.26:331][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Alto_do_Ipiranga_Elev52F7FD974184D77FF3902690A027C98E.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Elevador/Plataforma_Alto_do_Ipiranga_Elevador.uasset'
+[2020.11.26-18.28.26:387][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Superior_Escada_Alto_3FBEAF6E4D9D9096E24DC3841506229C.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Escada/Plataforma_Superior_Escada_Alto_do_Ipiranga.uasset'
+[2020.11.26-18.28.26:464][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Superior_Escada_Alto_F67325594FA3DEEEFFDD5799D12BC0C3.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Escada/Plataforma_Superior_Escada_Alto_do_Ipiranga.uasset'
+[2020.11.26-18.28.26:528][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Superior_Escada_Alto_679C76874B3E3188918EBABDC62504A3.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Escada/Plataforma_Superior_Escada_Alto_do_IpirangaMat.uasset'
+[2020.11.26-18.28.26:590][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Superior_Escada_Alto_CF62324B43F8828D237B51AAFECB1361.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Escada/Texture/Plataforma_Superior_Escada_Alto_do_Ipiranga_DefaultMaterial_BaseColor.uasset'
+[2020.11.26-18.28.26:688][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Superior_Escada_Alto_0053F2724EED7121020A72825A7ED4D1.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Escada/Texture/Plataforma_Superior_Escada_Alto_do_Ipiranga_DefaultMaterial_Normal.uasset'
+[2020.11.26-18.28.26:733][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Superior_Escada_Alto_80865D5245844E138D308BB9A45AD193.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Escada/Texture/Plataforma_Superior_Escada_Alto_do_Ipiranga_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2020.11.26-18.28.26:804][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Superior_Alto_do_Ipir49E62A1246E4AD8F48556798D5ECED2E.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Plataforma_Superior_Alto_do_Ipiranga.uasset'
+[2020.11.26-18.28.26:881][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Superior_Alto_do_Ipir92C2B9EC4AEED7B120D031830E27753A.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_Alto_do_Ipiranga/Plataforma_Superior_Alto_do_Ipiranga.uasset'
+[2020.11.26-18.28.26:945][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CP_Alto_do_IpirangaAE9BE2E8436C6E546D2752876F304921.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga.uasset'
+[2020.11.26-18.28.27:032][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CP_Alto_do_Ipiranga9CBB56C64D9427999C3C7FB5566F1040.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoAltoIpiranga/Plataforma_CP_Alto_do_Ipiranga/Plataforma_CP_Alto_do_Ipiranga.uasset'
+[2020.11.26-18.28.27:086][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Alto_do_Ipiranga_Plat3D0807484634060D4E6D12A428C8F333.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_Superior.uasset'
+[2020.11.26-18.28.27:141][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CE_Masp643FCADA47C7EB38966EBF8DB18F9AD1.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_CE_Masp/Plataforma_CE_Masp.uasset'
+[2020.11.26-18.28.27:197][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CE_MaspMat15D173694FDC831095E84283949099D0.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_CE_Masp/Plataforma_CE_MaspMat.uasset'
+[2020.11.26-18.28.27:271][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CE_MaspMat2E57C1EB42BE467466FA90BE59F788F6.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoMasp/Plataforma_CE_Masp/Plataforma_CE_MaspMat.uasset'
+[2020.11.26-18.28.27:328][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CP_MaspC6C8277A4F30BBB9C8A43E98E8D23F3B.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_CP_Masp/Plataforma_CP_Masp.uasset'
+[2020.11.26-18.28.27:408][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_CP_Masp7DEF113447A51E52008A50A5AC92AA44.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoMasp/Plataforma_CP_Masp/Plataforma_CP_Masp.uasset'
+[2020.11.26-18.28.27:465][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Masp050A59224494827A5C45158EC0D31779.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_Masp/Plataforma_Masp.uasset'
+[2020.11.26-18.28.27:549][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Masp3DA350EF45AD8C5EC2C227BF714E61BA.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoMasp/Plataforma_Masp/Plataforma_Masp.uasset'
+[2020.11.26-18.28.27:608][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Masp_Bilheteria756789B34804BD607C5C599902348ADF.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_Masp_Bilheteria/Plataforma_Masp_Bilheteria.uasset'
+[2020.11.26-18.28.27:664][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Masp_BilheteriaMatEC763DF94FFB491D846CCB9D82245838.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_Masp_Bilheteria/Plataforma_Masp_BilheteriaMat.uasset'
+[2020.11.26-18.28.30:146][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 48
+[2020.11.26-18.28.30:146][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2020.11.26-18.28.30:146][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.11.26-18.28.30:193][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Masp_DisplayMatD8A3EFF44FB29E75813643B79CAE4A34.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_Masp_Display/Plataforma_Masp_DisplayMat.uasset'
+[2020.11.26-18.28.30:245][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Masp_Display_EstacaoE5022E7D468E4571667025BD0F88B3CF.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_Masp_Display/Plataforma_Masp_Display_Estacao.uasset'
+[2020.11.26-18.28.31:127][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.11.26-18.28.31:127][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.11.26-18.28.31:175][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Masp_DisplayADMat3924E1AC44293D3B656F979217285FB2.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_Masp_DisplayAD/Plataforma_Masp_DisplayADMat.uasset'
+[2020.11.26-18.28.31:238][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Masp_Display_AD7E6D768D4640AF2F7F6501A36184C333.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoMasp/Plataforma_Masp_DisplayAD/Plataforma_Masp_Display_AD.uasset'
+[2020.11.26-18.28.31:297][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_SumareF45BE5B2411F72189596FAA52C623A88.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare/Plataforma_Sumare.uasset'
+[2020.11.26-18.28.31:405][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare81F93CC142268CACF020028CA2C21CC4.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare/Plataforma_Sumare.uasset'
+[2020.11.26-18.28.31:478][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Barreira_de_ProtecaoB707A6E74D050F62238356B5121ACC60.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare_Barreira/Barreira_de_Protecao.uasset'
+[2020.11.26-18.28.33:338][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.11.26-18.28.33:338][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.26-18.28.33:338][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.11.26-18.28.33:338][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.11.26-18.28.33:389][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Barreira_de_ProtecaoMatCA9FCA094BBD4FCD19287C82FD1017DB.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare_Barreira/Barreira_de_ProtecaoMat.uasset'
+[2020.11.26-18.28.33:443][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_Bilheteria42C14C084A25448BD0D771A179DB3911.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare_Bilheteria/Plataforma_Sumare_Bilheteria.uasset'
+[2020.11.26-18.28.33:498][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_Saida130CB85544AA2054751E25BBB76BFCAB.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare_Saida/Plataforma_Sumare_Saida.uasset'
+[2020.11.26-18.28.33:585][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_SaidaB9EC677C425BBC590281ACAFBD0A7DBD.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaAzul/EstacaoSumare/Plataforma_Sumare_Saida/Plataforma_Sumare_Saida.uasset'
+[2020.11.26-18.28.33:643][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_Vidro_Prot40EACA2E444F6019E3D1F9804888F621.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare_Vidro_Prot/Plataforma_Sumare_Vidro_Prot.uasset'
+[2020.11.26-18.28.34:163][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.11.26-18.28.34:163][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.11.26-18.28.34:195][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_Vidro_ProtMat720F8B9C4D7B0A633F64C18FCC9A2262.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/LinhaVerde/EstacaoSumare/Plataforma_Sumare_Vidro_Prot/Plataforma_Sumare_Vidro_ProtMat.uasset'
+[2020.11.26-18.28.39:729][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.11.26-18.28.39:765][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.11.26-18.28.39:803][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.11.26-18.28.39:841][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.26-18.28.39:878][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.11.26-18.28.39:914][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.11.26-18.28.39:948][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.11.26-18.28.39:981][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.11.26-18.28.40:017][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.11.26-18.28.40:057][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.26-18.28.40:093][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.26-18.28.40:127][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.26-18.28.40:160][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.26-18.28.40:196][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.26-18.28.40:234][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.11.26-18.28.40:270][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.26-18.28.40:304][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.26-18.28.40:341][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.26-18.28.40:379][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.11.26-18.28.40:414][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.11.26-18.28.40:449][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.11.26-18.28.40:485][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.11.26-18.28.40:522][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.26-18.28.40:560][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.11.26-18.28.40:595][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.26-18.28.40:632][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.11.26-18.28.40:668][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.26-18.28.40:705][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.26-18.28.40:738][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.26-18.28.40:777][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.26-18.28.40:811][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.26-18.28.40:846][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.26-18.28.40:881][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.11.26-18.28.40:923][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.11.26-18.28.40:954][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.26-18.28.40:988][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.26-18.28.41:031][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.11.26-18.28.41:069][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.26-18.28.41:098][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.11.26-18.28.41:133][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.11.26-18.28.41:170][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.26-18.28.41:205][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.11.26-18.28.41:237][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.26-18.28.41:273][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.26-18.28.41:308][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.11.26-18.28.41:346][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.26-18.28.41:382][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.11.26-18.28.41:414][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.26-18.28.41:451][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.26-18.28.41:482][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.26-18.28.41:518][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.26-18.28.41:556][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.11.26-18.28.41:593][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.11.26-18.28.41:635][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.11.26-18.28.41:669][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.26-18.28.41:739][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Alto_do_Ipiranga_Plat1D5AFB4844A63887005C109C179B19F2.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/EstacaoAltoIpiranga/Plataforma_Superior/Plataforma_Alto_do_Ipiranga_Plataforma_Superior.uasset'
+[2020.11.26-18.28.41:784][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Masp_Display_Estacao9B05F7E145FF4045EB92DCA629AE1A4E.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/EstacaoMasp/Plataforma_Masp_Display_Estacao.uasset'
+[2020.11.26-18.28.41:829][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Masp_Display_AD9B03C03145CBC37B2ABE9E9BA97203A0.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/EstacaoMasp/Plataforma_Masp_Display_AD.uasset'
+[2020.11.26-18.28.41:877][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Barreira_de_ProtecaoC8FDADFB4823F2F869BD7594C87CBF2A.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/EstacaoSumare/Barreira_de_Protecao.uasset'
+[2020.11.26-18.28.41:921][102]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Plataforma_Sumare_Vidro_Prot7618C0014971DDAD6EE60F9391AD95A3.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Estacoes/EstacaoSumare/Plataforma_Sumare_Vidro_Prot.uasset'
+[2020.11.26-18.28.50:489][516]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.11.26-18.28.54:070][516]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.26-18.28.57:225][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.11.26-18.29.18:920][733]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.26-18.30.54:286][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.11.26-18.30.54:403][ 18]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.11.26-18.30.54:439][ 18]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.26-18.30.54:443][ 18]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.11.26-18.30.54:467][ 18]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.26-18.30.54:467][ 18]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.26-18.30.54:506][ 18]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.11.26-18.30.54:510][ 18]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.11.26-18.30.54:534][ 18]LogSlate: Window 'Tentativa4 - Unreal Editor' being destroyed
+[2020.11.26-18.30.54:660][ 19]Cmd: QUIT_EDITOR
+[2020.11.26-18.30.54:673][ 19]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.26-18.30.54:689][ 19]LogExit: Preparing to exit.
+[2020.11.26-18.30.55:538][ 19]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.11.26-18.30.55:543][ 19]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.11.26-18.30.55:579][ 19]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.11.26-18.30.55:590][ 19]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.26-18.30.55:591][ 19]LogExit: Editor shut down
+[2020.11.26-18.30.55:595][ 19]LogExit: Transaction tracking system shut down
+[2020.11.26-18.30.55:971][ 19]LogExit: Object subsystem successfully closed.
+[2020.11.26-18.30.55:998][ 19]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.11.26-18.30.56:014][ 19]LogModuleManager: Shutting down and abandoning module MeshBuilder (674)
+[2020.11.26-18.30.56:014][ 19]LogModuleManager: Shutting down and abandoning module TextureEditor (672)
+[2020.11.26-18.30.56:014][ 19]LogModuleManager: Shutting down and abandoning module SequencerWidgets (670)
+[2020.11.26-18.30.56:014][ 19]LogModuleManager: Shutting down and abandoning module BlueprintGraph (668)
+[2020.11.26-18.30.56:014][ 19]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (666)
+[2020.11.26-18.30.56:014][ 19]LogModuleManager: Shutting down and abandoning module SceneOutliner (664)
+[2020.11.26-18.30.56:014][ 19]LogModuleManager: Shutting down and abandoning module AddContentDialog (662)
+[2020.11.26-18.30.56:018][ 19]LogModuleManager: Shutting down and abandoning module WidgetCarousel (661)
+[2020.11.26-18.30.56:018][ 19]LogModuleManager: Shutting down and abandoning module EditorWidgets (658)
+[2020.11.26-18.30.56:018][ 19]LogModuleManager: Shutting down and abandoning module CollectionManager (656)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2020.11.26-18.30.56:019][ 19]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2020.11.26-18.30.56:020][ 19]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2020.11.26-18.30.56:020][ 19]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2020.11.26-18.30.56:020][ 19]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2020.11.26-18.30.56:020][ 19]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2020.11.26-18.30.56:020][ 19]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2020.11.26-18.30.56:020][ 19]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2020.11.26-18.30.56:020][ 19]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2020.11.26-18.30.56:020][ 19]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2020.11.26-18.30.56:020][ 19]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2020.11.26-18.30.56:020][ 19]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2020.11.26-18.30.56:020][ 19]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2020.11.26-18.30.56:306][ 19]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2020.11.26-18.30.56:306][ 19]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2020.11.26-18.30.56:306][ 19]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2020.11.26-18.30.56:306][ 19]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2020.11.26-18.30.56:306][ 19]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2020.11.26-18.30.56:306][ 19]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2020.11.26-18.30.56:306][ 19]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2020.11.26-18.30.56:306][ 19]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2020.11.26-18.30.56:306][ 19]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2020.11.26-18.30.56:306][ 19]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2020.11.26-18.30.56:306][ 19]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2020.11.26-18.30.56:306][ 19]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2020.11.26-18.30.56:307][ 19]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2020.11.26-18.30.56:307][ 19]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2020.11.26-18.30.56:307][ 19]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2020.11.26-18.30.56:307][ 19]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2020.11.26-18.30.56:307][ 19]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2020.11.26-18.30.56:308][ 19]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2020.11.26-18.30.56:308][ 19]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2020.11.26-18.30.56:308][ 19]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2020.11.26-18.30.56:308][ 19]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2020.11.26-18.30.56:308][ 19]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2020.11.26-18.30.56:308][ 19]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2020.11.26-18.30.56:353][ 19]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2020.11.26-18.30.56:353][ 19]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2020.11.26-18.30.56:353][ 19]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2020.11.26-18.30.56:353][ 19]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2020.11.26-18.30.56:353][ 19]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2020.11.26-18.30.56:353][ 19]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2020.11.26-18.30.56:353][ 19]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2020.11.26-18.30.56:354][ 19]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2020.11.26-18.30.56:354][ 19]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2020.11.26-18.30.56:354][ 19]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2020.11.26-18.30.56:354][ 19]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2020.11.26-18.30.56:363][ 19]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2020.11.26-18.30.56:363][ 19]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2020.11.26-18.30.56:364][ 19]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2020.11.26-18.30.56:364][ 19]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2020.11.26-18.30.56:364][ 19]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2020.11.26-18.30.56:364][ 19]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.11.26-18.30.56:364][ 19]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.11.26-18.30.56:364][ 19]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.11.26-18.30.56:364][ 19]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.11.26-18.30.56:364][ 19]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.11.26-18.30.56:364][ 19]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.11.26-18.30.56:364][ 19]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.11.26-18.30.56:365][ 19]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.11.26-18.30.56:365][ 19]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.11.26-18.30.56:365][ 19]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.11.26-18.30.56:365][ 19]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.11.26-18.30.56:365][ 19]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.11.26-18.30.56:365][ 19]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.11.26-18.30.56:365][ 19]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.11.26-18.30.56:365][ 19]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.11.26-18.30.56:365][ 19]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.11.26-18.30.56:365][ 19]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.11.26-18.30.56:365][ 19]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.11.26-18.30.56:365][ 19]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.11.26-18.30.56:365][ 19]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2020.11.26-18.30.56:365][ 19]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2020.11.26-18.30.56:374][ 19]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2020.11.26-18.30.56:526][ 19]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2020.11.26-18.30.56:526][ 19]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2020.11.26-18.30.56:526][ 19]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2020.11.26-18.30.56:526][ 19]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2020.11.26-18.30.56:526][ 19]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2020.11.26-18.30.56:526][ 19]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2020.11.26-18.30.56:526][ 19]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2020.11.26-18.30.56:526][ 19]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2020.11.26-18.30.56:526][ 19]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2020.11.26-18.30.56:526][ 19]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2020.11.26-18.30.56:526][ 19]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2020.11.26-18.30.56:526][ 19]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2020.11.26-18.30.56:526][ 19]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.11.26-18.30.56:527][ 19]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.11.26-18.30.56:528][ 19]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.11.26-18.30.56:529][ 19]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.11.26-18.30.56:529][ 19]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.11.26-18.30.56:529][ 19]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.11.26-18.30.56:529][ 19]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.11.26-18.30.56:529][ 19]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.11.26-18.30.56:529][ 19]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.11.26-18.30.56:529][ 19]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.11.26-18.30.56:529][ 19]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.11.26-18.30.56:529][ 19]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.11.26-18.30.56:631][ 19]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.11.26-18.30.56:732][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.11.26-18.30.56:732][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.11.26-18.30.56:732][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.11.26-18.30.56:732][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.11.26-18.30.56:732][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.11.26-18.30.56:732][ 19]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.11.26-18.30.56:732][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.11.26-18.30.56:732][ 19]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.11.26-18.30.56:732][ 19]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.11.26-18.30.56:732][ 19]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.11.26-18.30.56:732][ 19]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.11.26-18.30.56:732][ 19]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.11.26-18.30.56:732][ 19]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.11.26-18.30.56:732][ 19]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.11.26-18.30.56:733][ 19]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.11.26-18.30.56:734][ 19]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.11.26-18.30.56:734][ 19]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.11.26-18.30.56:734][ 19]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.11.26-18.30.56:736][ 19]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.11.26-18.30.56:737][ 19]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.11.26-18.30.56:737][ 19]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.11.26-18.30.56:737][ 19]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.11.26-18.30.56:737][ 19]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.11.26-18.30.56:737][ 19]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.11.26-18.30.56:739][ 19]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.11.26-18.30.56:740][ 19]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.11.26-18.30.56:740][ 19]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.11.26-18.30.56:740][ 19]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.11.26-18.30.56:740][ 19]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.11.26-18.30.56:740][ 19]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.11.26-18.30.56:740][ 19]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.11.26-18.30.56:741][ 19]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.11.26-18.30.56:822][ 19]LogDerivedDataCache: Shutdown
+[2020.11.26-18.30.56:822][ 19]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.11.26-18.30.56:822][ 19]LogXGEController: Cleaning working directory: C:/Users/salles/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.11.26-18.30.56:823][ 19]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.11.26-18.30.56:824][ 19]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.11.26-18.30.56:824][ 19]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.11.26-18.30.56:824][ 19]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.11.26-18.30.56:824][ 19]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.11.26-18.30.56:824][ 19]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.11.26-18.30.56:824][ 19]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.11.26-18.30.56:824][ 19]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.11.26-18.30.56:825][ 19]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.11.26-18.30.56:825][ 19]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.11.26-18.30.56:831][ 19]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.11.26-18.30.56:831][ 19]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.11.26-18.30.56:831][ 19]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.11.26-18.30.56:831][ 19]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.11.26-18.30.56:831][ 19]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.11.26-18.30.56:831][ 19]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.11.26-18.30.56:831][ 19]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.11.26-18.30.56:831][ 19]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.11.26-18.30.56:831][ 19]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.11.26-18.30.56:831][ 19]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.11.26-18.30.56:831][ 19]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.11.26-18.30.56:831][ 19]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.11.26-18.30.56:832][ 19]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.11.26-18.30.56:832][ 19]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.11.26-18.30.56:832][ 19]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.11.26-18.30.56:832][ 19]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.11.26-18.30.56:832][ 19]LogHMD: Freeing OpenVRDLLHandle.
+[2020.11.26-18.30.56:832][ 19]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.11.26-18.30.56:832][ 19]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.11.26-18.30.56:832][ 19]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.11.26-18.30.56:832][ 19]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.11.26-18.30.56:832][ 19]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.11.26-18.30.56:833][ 19]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.11.26-18.30.56:833][ 19]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.11.26-18.30.56:838][ 19]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.11.26-18.30.56:838][ 19]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.11.26-18.30.56:838][ 19]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B32236413-41F1-E012-C35B-0EA9D4F0E7D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=67ba10724d560c688afd0b872ac04ae0%7Cf11ff26015a34a9c92b608694a5cdef0%7C44a143d0-0deb-4259-a870-5861c956a322&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.11.26-18.30.56:859][ 19]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.11.26-18.30.56:860][ 19]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.11.26-18.30.56:861][ 19]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.11.26-18.30.56:862][ 19]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.11.26-18.30.56:862][ 19]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.11.26-18.30.56:862][ 19]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.11.26-18.30.56:862][ 19]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.11.26-18.30.56:862][ 19]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.11.26-18.30.56:862][ 19]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.11.26-18.30.56:862][ 19]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.11.26-18.30.56:863][ 19]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.11.26-18.30.56:863][ 19]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.11.26-18.30.56:863][ 19]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.11.26-18.30.56:863][ 19]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.11.26-18.30.56:863][ 19]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.11.26-18.30.56:864][ 19]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.11.26-18.30.56:864][ 19]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.11.26-18.30.56:864][ 19]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.11.26-18.30.56:864][ 19]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.11.26-18.30.56:864][ 19]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.11.26-18.30.56:864][ 19]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.11.26-18.30.56:864][ 19]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.11.26-18.30.56:864][ 19]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.11.26-18.30.56:864][ 19]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.11.26-18.30.56:864][ 19]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.11.26-18.30.56:864][ 19]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.11.26-18.30.56:864][ 19]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.11.26-18.30.56:866][ 19]LogD3D11RHI: Shutdown
+[2020.11.26-18.30.56:866][ 19]LogD3D11RHI: CleanupD3DDevice
+[2020.11.26-18.30.56:867][ 19]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.11.26-18.30.56:867][ 19]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.11.26-18.30.56:867][ 19]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.11.26-18.30.56:880][ 19]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2020.11.26-18.30.56:996][ 19]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.11.26-18.30.57:007][ 19]LogExit: Exiting.
+[2020.11.26-18.30.57:020][ 19]Log file closed, 11/26/20 15:30:57
